@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.manim" />
+          <option value="manim" />
+          <option value="main.Tex" />
+          <option value="main.*" />
+          <option value="dec2021.*" />
+          <option value="learn_manim.*" />
+          <option value="physics_one_kinematics.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
